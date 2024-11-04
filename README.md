@@ -1,3 +1,32 @@
+<!-- social media connecting shield -->
+
+[![Instagram][instagram-shield]][instagram-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Github][github-shield]][github-url]
+
+![Frontend Screenshot](https://raw.githubusercontent.com/sJalui/LuxuryHaven/refs/heads/main/Site%20Images/Screenshot%202024-10-22%20220842.png?token=GHSAT0AAAAAACYN53YUOYA4GAYRVNU7XMJ4ZYX4QTA)
+![Frontend Screenshot](https://raw.githubusercontent.com/sJalui/LuxuryHaven/refs/heads/main/Site%20Images/Screenshot%202024-10-22%20222249.png?token=GHSAT0AAAAAACYN53YVGMRH6USBYLHN622AZYX4REQ)
+
+# ✨ LuxuryHaven | Hotel Room Booking System
+
+ <strong> Developed by- Eeshanya Joshi</strong>. Tech Used: `Node.js, React.js, Express.js, MongoDB, Typescript`.
+
+<!-- my social media links -->
+
+[instagram-url]: https://www.instagram.com/eeshanya_1803/
+[linkedin-url]: https://www.linkedin.com/in/eeshanya-joshi-641920261/
+[github-url]: https://github.com/Code-Ph0enix
+<!-- shield icon links -->
+
+[instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[github-shield]: https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&color=555&logoColor=white
+
+
+<p align="center">
+  <strong>Contributed by Shubh Jalui https://github.com/sJalui </strong>
+</p>
+
 # Setting Up the MERN Booking App
 
 This guide will walk you through the process of setting up the MERN Booking App on your local machine.
