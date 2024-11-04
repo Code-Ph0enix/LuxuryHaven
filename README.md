@@ -109,7 +109,15 @@ cd mern-booking-app
     - Open a new terminal and navigate to the `frontend` directory.
     - Install dependencies: `npm install`.
     - Start the frontend application: `npm run dev`.
-    - The application should now be running on `http://localhost:5173` but verify this in your command line terminal  
+    - The application should now be running on `http://localhost:5173` but verify this in your command line terminal
+
+3. **Issue Resolve**:
+
+-Use this code in your index.tsc file in frontend to resolve corse error(Use your localhost)
+ app.use(cors({
+ origin: 'http://localhost:5174', 
+ credentials: true, 
+ }));
 
 
 ## Running Automated Tests
