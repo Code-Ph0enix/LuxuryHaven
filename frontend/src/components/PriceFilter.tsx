@@ -1,3 +1,8 @@
+type Props = {
+  selectedPrice: number | undefined;
+  onChange: (value: number | undefined) => void;
+};
+
 const PriceFilter = ({ selectedPrice, onChange }: Props) => {
   return (
     <div className="mb-4">
