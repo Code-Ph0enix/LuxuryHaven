@@ -3,10 +3,10 @@
     "target": "ES2020",
     "useDefineForClassFields": true,
     "lib": ["ES2020", "DOM", "DOM.Iterable"],
-    "module": "ESNext", // Change to CommonJS for Node.js
+    "module": "ESNext", 
     "skipLibCheck": true,
-    "moduleResolution": "node", // Change to node for better compatibility
-    "outDir": "./dist", // Specify output directory
+    "moduleResolution": "node", 
+    "outDir": "./dist", 
     "allowImportingTsExtensions": true,
     "resolveJsonModule": true,
     "isolatedModules": true,
