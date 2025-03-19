@@ -38,8 +38,9 @@ app.use("/api/my-bookings", bookingRoutes);
 
 
 
-const PORT = process.env.PORT || 7000;
-app.listen(PORT, "0.0.0.0", () => {
+const PORT = Number(process.env.PORT) || 7000;
+app.listen(PORT, () => {
   console.log(`server running on port ${PORT}`);
 });
+
 
